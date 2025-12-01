@@ -1,4 +1,0 @@
-streamlit
-pandas
-plotly
-pip install pytest
